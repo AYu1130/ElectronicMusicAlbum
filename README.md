@@ -1,0 +1,2 @@
+# ElectronicMusicAlbum
+基于GEC6818开发板和LVGL框架实现的电子音乐相册
