@@ -1,0 +1,19 @@
+lvgl/CMakeFiles/lvgl.dir/src/osal/lv_pthread.c.o: \
+ /home/china/Desktop/电子音乐相册/Demo/lvgl/src/osal/lv_pthread.c \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdc-predef.h \
+ /home/china/Desktop/电子音乐相册/Demo/lvgl/src/osal/lv_os.h \
+ /home/china/Desktop/电子音乐相册/Demo/lvgl/src/osal/../lv_conf_internal.h \
+ /home/china/Desktop/电子音乐相册/Demo/lvgl/src/osal/../lv_conf_kconfig.h \
+ /home/china/Desktop/电子音乐相册/Demo/lv_conf.h \
+ /home/china/Desktop/电子音乐相册/Demo/lvgl/src/osal/../misc/lv_types.h \
+ /home/china/Desktop/电子音乐相册/Demo/lvgl/src/osal/../misc/../lv_conf_internal.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/features.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/sys/cdefs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wordsize.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs-soft.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wchar.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stddef.h \
+ /home/china/Desktop/电子音乐相册/Demo/lvgl/src/osal/lv_os_none.h
