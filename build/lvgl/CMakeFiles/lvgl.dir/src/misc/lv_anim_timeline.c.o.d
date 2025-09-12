@@ -1,0 +1,32 @@
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_anim_timeline.c.o: \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_anim_timeline.c \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdc-predef.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_assert.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../lv_conf_internal.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../lv_conf_kconfig.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lv_conf.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_log.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/features.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/sys/cdefs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wordsize.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs-soft.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wchar.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_types.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../stdlib/lv_mem.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../stdlib/../lv_conf_internal.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stddef.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/string.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/xlocale.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../stdlib/../misc/lv_types.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_anim_timeline.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_anim.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_math.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_timer.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../tick/lv_tick.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../tick/../lv_conf_internal.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stdbool.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_ll.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../stdlib/lv_string.h

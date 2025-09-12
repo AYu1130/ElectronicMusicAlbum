@@ -1,0 +1,26 @@
+CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.o: \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_lru.c \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdc-predef.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_lru.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../lv_conf_internal.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../lv_conf_kconfig.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lv_conf.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_types.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/features.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/sys/cdefs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wordsize.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs-soft.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wchar.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stddef.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_math.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../stdlib/lv_mem.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../stdlib/../lv_conf_internal.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/string.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/xlocale.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../stdlib/../misc/lv_types.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/../stdlib/lv_string.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_assert.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/misc/lv_log.h

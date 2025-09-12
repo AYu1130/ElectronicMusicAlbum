@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/china/Desktop/ElectronicMusicAlbum/build/cmake_install.cmake",
+		"/home/china/Desktop/ElectronicMusicAlbum/build/lvgl/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

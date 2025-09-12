@@ -1,0 +1,31 @@
+lvgl/CMakeFiles/lvgl.dir/src/drivers/nuttx/lv_nuttx_touchscreen.c.o: \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.c \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdc-predef.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/lv_nuttx_touchscreen.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/lv_indev.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../core/lv_group.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../core/../lv_conf_internal.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../core/../lv_conf_kconfig.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lv_conf.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/features.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/sys/cdefs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wordsize.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs-soft.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wchar.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stdbool.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../core/../misc/lv_types.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../core/../misc/../lv_conf_internal.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../core/../misc/lv_ll.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stddef.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../misc/lv_area.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../misc/../lv_conf_internal.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../misc/lv_types.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../misc/lv_timer.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../misc/../tick/lv_tick.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../misc/../tick/../lv_conf_internal.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../misc/lv_ll.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../misc/lv_event.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/drivers/nuttx/../../indev/../misc/lv_array.h

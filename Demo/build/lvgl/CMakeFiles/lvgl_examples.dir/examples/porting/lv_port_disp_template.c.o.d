@@ -1,3 +1,0 @@
-lvgl/CMakeFiles/lvgl_examples.dir/examples/porting/lv_port_disp_template.c.o: \
- /home/china/Desktop/电子音乐相册/Demo/lvgl/examples/porting/lv_port_disp_template.c \
- /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdc-predef.h

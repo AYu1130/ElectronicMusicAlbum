@@ -1,0 +1,29 @@
+lvgl/CMakeFiles/lvgl.dir/src/stdlib/builtin/lv_string_builtin.c.o: \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/lv_string_builtin.c \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdc-predef.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../lv_conf_internal.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../lv_conf_kconfig.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lv_conf.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../misc/lv_assert.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../misc/../lv_conf_internal.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../misc/lv_log.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/stdint.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/features.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/sys/cdefs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wordsize.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/gnu/stubs-soft.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/bits/wchar.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../misc/lv_types.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../misc/../stdlib/lv_mem.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../misc/../stdlib/../lv_conf_internal.h \
+ /usr/local/arm/5.4.0/usr/lib/gcc/arm-none-linux-gnueabi/5.4.0/include/stddef.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/string.h \
+ /usr/local/arm/5.4.0/usr/arm-none-linux-gnueabi/sysroot/usr/include/xlocale.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../misc/../stdlib/../misc/lv_types.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../misc/lv_log.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../misc/lv_math.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../stdlib/lv_string.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../stdlib/../lv_conf_internal.h \
+ /home/china/Desktop/ElectronicMusicAlbum/src/lvgl/src/stdlib/builtin/../../stdlib/lv_mem.h
